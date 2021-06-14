@@ -5,13 +5,16 @@ You are given two numbers, num1 = 4 and num2 = 7.
 
  */
 
-  let numb1 = 4;
-  let numb2 = 7;
+// if-else condition
 
-  
-  if(numb1 + numb2 == 11 ){
-      console.log("True")
-  }
-  else{
-      console.log("False")
-  }
+let numb1 = 4;
+let numb2 = 7;
+let sum = numb1 + numb2;
+console.log(sum);
+
+if (sum == 11) {
+    console.log("true");
+}
+else {
+    console.log("false");
+}
