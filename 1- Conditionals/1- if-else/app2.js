@@ -17,15 +17,3 @@ if (sum == 11) {
 else {
     console.log("false");
 }
-
-//switch case
-switch (sum) {
-    case 1:
-        sum == 11;
-        console.log("sum is equal to case 1");
-        break;
-
-    default:
-        console.log("not equal to 11");
-        break;
-}
