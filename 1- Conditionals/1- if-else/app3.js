@@ -6,7 +6,7 @@
 
 */
 
-let number = 11 + 2;
+let number = 11;
 
 if (number < 10) {
     console.log("the number is less than 10");
