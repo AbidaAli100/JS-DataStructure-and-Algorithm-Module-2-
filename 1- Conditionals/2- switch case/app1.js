@@ -6,18 +6,17 @@
 */
 
 //switch-case
-
+let number = 1;
 switch (number) {
     case 0:
-        number == 1;
         console.log("case 0 is true");
         break;
 
     case 1:
-        number = 2;
         console.log("case 1 is true");
         break;
 
     default:
         console.log("not found");
 }
+

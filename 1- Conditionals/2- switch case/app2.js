@@ -7,6 +7,11 @@ You are given two numbers, num1 = 4 and num2 = 7.
 
   
 //switch case
+
+let numb1 = 4;
+let numb2 = 7;
+let sum = (numb1 + numb2);
+
 switch (sum) {
     case 1:
         sum == 11;
