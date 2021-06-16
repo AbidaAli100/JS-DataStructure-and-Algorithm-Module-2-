@@ -6,7 +6,7 @@
        the name of a rabbit, print ‘this is not a rabbit’.
  */
 
-petAnimals = ["cat", "rabbit", "pigeon", "parrot", "goldfish"];
+let petAnimals = ["cat", "rabbit", "pigeon", "parrot", "goldfish"];
 
 for (i = 0; i < petAnimals.length; i++) {
     if (petAnimals[i] === "rabbit") {

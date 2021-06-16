@@ -4,7 +4,7 @@
      Print ‘something else’ if the name doesn’t equal any of
       the names in the list.
 */
-petAnimals = ["cat", "rabbit", "pigeon", "parrot", "goldfish"];
+ petAnimals = ["cat", "rabbit", "pigeon", "parrot", "goldfish"];
 
 for (i = 0; i < petAnimals.length; i++) {
     if (petAnimals[i] === "rabbit") {
