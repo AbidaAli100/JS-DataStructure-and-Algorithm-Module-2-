@@ -4,9 +4,15 @@
  */
 
 let myName = "Abida";
-console.log("length" + ":" + myName.length);
-// console.log([myName.length - 2]);
 
+//for printing the length
+console.log("length" + ":" + myName.length);
+
+
+//we have "b" at 1 index
+console.log(myName[1]);
+
+//for printing each character
 for (let i = 0; i < myName.length; i++) {
     console.log("charatcter " + ":" + myName[i])
 }
