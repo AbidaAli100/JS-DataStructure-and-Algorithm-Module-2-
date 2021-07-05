@@ -11,10 +11,10 @@ let userObject = {
 }
 console.log(Object.keys(userObject));
 
-//expected output 
+//names (keys)
 // [ 'userName', 'fatherName', 'className' ]
 
 console.log(Object.values(userObject));
 
-//expected output
+// values
 // [ 'Philip', 'Norman', 'four' ]
