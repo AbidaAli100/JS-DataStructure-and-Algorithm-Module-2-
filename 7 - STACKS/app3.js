@@ -27,5 +27,3 @@ class stack {
 let myStack = new stack();
 myStack.isEmpty();
 myStack.isFull();
-
-//FALSE
